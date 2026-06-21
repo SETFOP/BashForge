@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO="yourusername/BashForge"
+REPO="SETFOP/BashForge"
 BIN_NAME="forge"
 INSTALL_DIR="${HOME}/.local/bin"
 
